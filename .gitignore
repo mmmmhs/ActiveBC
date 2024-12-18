@@ -1,0 +1,11 @@
+*.csv
+*.pth
+*.zip
+*.txt
+*.ipynb
+__pycache__/
+d3rlpy.egg-info/
+d3rlpy_data/
+logs/
+results/
+.env
